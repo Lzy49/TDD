@@ -1,0 +1,24 @@
+{
+  "name": "step1-jest-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.5"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/plugin-transform-modules-commonjs": "^7.16.5",
+    "@babel/plugin-transform-typescript": "^7.16.1",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-typescript": "^7.16.5",
+    "@types/jest": "^27.0.3",
+    "babel-jest": "^27.4.5"
+  }
+}
