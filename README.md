@@ -33,3 +33,5 @@
 1. [vite中使用jest 踩坑⚠️](https://juejin.cn/post/7011434719317327908)
 2. [vite 安装 jest] (https://juejin.cn/post/6872978094291238926)
 3. [vite 安装 jest2] (https://juejin.cn/post/6910014283707318279)
+## 目录
+- step1-jest-doc // 读  jest 官方文档 ，做练习。
